@@ -2,6 +2,8 @@ const cores = ['azul', 'amarelo', 'verde'];
 const cores2 = ['vemelho', 'marrom', 'branco'];
 
 /////////////////////////////
+// Obtém cada item de um iterável para aplicá-lo.
+
 const newArray = [...cores];
 console.log(newArray);
 

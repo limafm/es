@@ -4,6 +4,8 @@ function convertCurrency(rate, qty1, qty2, qty3) {
   console.log(rate * qty3);
 }
 
+// A partir de vários items, gera um iterável.
+
 // // function convertCurrency(rate, ...qty) {
 // //   qty.forEach((q) => {
 // //     console.log(rate * q);
